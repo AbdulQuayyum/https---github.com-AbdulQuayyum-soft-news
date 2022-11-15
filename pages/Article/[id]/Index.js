@@ -1,4 +1,4 @@
-import { server } from '../../Configuration/Configuration'
+import { server } from '../../../Configuration/Configuration'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import Meta from '../../../Components/Meta'
